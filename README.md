@@ -114,8 +114,9 @@ Berikut grafik utama yang digunakan dalam analisis:
 
 ---
 
-## 📁 Project Structure
 
+## 📁 Project Structure
+```
 retail_sales_performance_analysis/
 │
 ├── Superstore_Sales_EDA.ipynb      # Jupyter Notebook berisi proses analisis
@@ -128,8 +129,9 @@ retail_sales_performance_analysis/
     ├── monthly_seasonality.png
     ├── shipping_duration.png
     └── sales_boxplot.png
-
+```
 ---
+
 
 # 🇬🇧 English Version
 
@@ -243,7 +245,7 @@ Engineered Features:
 ---
 
 ## 📁 Project Structure
-
+```
 retail_sales_performance_analysis/
 │
 ├── Superstore_Sales_EDA.ipynb      # Jupyter Notebook containing full analysis
@@ -256,3 +258,4 @@ retail_sales_performance_analysis/
     ├── monthly_seasonality.png
     ├── shipping_duration.png
     └── sales_boxplot.png
+```
