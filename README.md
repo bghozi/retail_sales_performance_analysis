@@ -37,59 +37,52 @@ Berikut grafik utama yang digunakan dalam analisis:
 
 ---
 
-1️⃣ Total Sales per Category
+### 1️⃣ Total Sales per Category
+📌 Menunjukkan kategori dengan kontribusi revenue terbesar.
 
-📌 Penting karena ini menunjukkan revenue driver utama.
-
-![Sales by Category](sales_by_category.png)
-
----
-
-2️⃣ Sales per Region
-
-📌 Menunjukkan distribusi pasar
-
-![Sales by Region](sales_by_region.png)
+![Sales by Category](images/sales_by_category.png)
 
 ---
 
-3️⃣ Sales Trend per Year
+### 2️⃣ Sales per Region
+📌 Menunjukkan distribusi penjualan antar wilayah.
 
-📌 Menunjukkan growth perusahaan
-
-![Yearly Growth](sales_per_yearly.png)
-
----
-
-4️⃣ Yearly Growth Rate
-
-📌 Ini sangat profesional karena menunjukkan analisis lanjutan
-
-![Yearly Growth](yearly_growth.png)
+![Sales by Region](images/sales_by_region.png)
 
 ---
 
-5️⃣ Monthly Trend & Seasonality
+### 3️⃣ Sales Trend per Year
+📌 Menunjukkan pertumbuhan penjualan tahunan.
 
-📌 Ini menunjukkan kamu memahami pola musiman (Q4 insight)
-
-![Monthly Seasonality](monthly_seasonality.png)
-
----
-
-6️⃣ Shipping Duration Distribution
-
-📌 Ini mendukung insight tentang cash flow & operasional
-
-![Shipping Duration](shipping_duration.png)
+![Sales Trend](images/sales_by_year.png)
 
 ---
 
-7️⃣ Sales Boxplot (Outlier Detection)
+### 4️⃣ Yearly Growth Rate
+📌 Menunjukkan pertumbuhan Year-over-Year (%).
 
-📌 Ini menunjukkan kamu paham distribusi dan outlier
+![Yearly Growth](images/yearly_growth.png)
 
-![Sales Boxplot](sales_boxplot.png)
+---
+
+### 5️⃣ Monthly Trend & Seasonality
+📌 Menunjukkan pola musiman (peningkatan signifikan pada Q4).
+
+![Monthly Seasonality](images/monthly_seasonality.png)
+
+---
+
+### 6️⃣ Shipping Duration Distribution
+📌 Menganalisis efisiensi pengiriman (rata-rata ±4 hari).
+
+![Shipping Duration](images/shipping_duration.png)
+
+---
+
+### 7️⃣ Sales Distribution & Outlier Detection
+📌 Analisis distribusi dan deteksi outlier menggunakan boxplot.
+
+![Sales Boxplot](images/sales_boxplot.png)
 
 ---
 
@@ -152,58 +145,55 @@ Engineered Features:
 
 ## 📊 Visualizations Included
 
-### 1️⃣ Total Sales by Category
-Identifies top revenue-generating categories.
+---
+---
 
-📌 Insight:
-Technology is the primary revenue driver.
+### 1️⃣ Total Sales per Category
+📌 Menunjukkan kategori dengan kontribusi revenue terbesar.
+
+![Sales by Category](images/sales_by_category.png)
 
 ---
 
-### 2️⃣ Total Sales by Sub-Category
-Highlights best and worst performing products.
+### 2️⃣ Sales per Region
+📌 Menunjukkan distribusi penjualan antar wilayah.
+
+![Sales by Region](images/sales_by_region.png)
 
 ---
 
-### 3️⃣ Sales by Region
-Analyzes geographic revenue distribution.
+### 3️⃣ Sales Trend per Year
+📌 Menunjukkan pertumbuhan penjualan tahunan.
 
-📌 Insight:
-West region generates the highest sales.
-
----
-
-### 4️⃣ Sales by Customer Segment
-Examines contribution from different customer groups.
+![Sales Trend](images/sales_by_year.png)
 
 ---
 
-### 5️⃣ Yearly Sales Trend
-Displays annual sales growth.
+### 4️⃣ Yearly Growth Rate
+📌 Menunjukkan pertumbuhan Year-over-Year (%).
 
-📌 Additional:
-Year-over-Year Growth Rate (%)
-
----
-
-### 6️⃣ Monthly Trend & Seasonality
-Reveals seasonal sales patterns.
-
-📌 Insight:
-Strong sales spike in Q4 (Oct–Dec).
+![Yearly Growth](images/yearly_growth.png)
 
 ---
 
-### 7️⃣ Shipping Duration Distribution
-Analyzes logistics efficiency.
+### 5️⃣ Monthly Trend & Seasonality
+📌 Menunjukkan pola musiman (peningkatan signifikan pada Q4).
 
-📌 Insight:
-Average shipping duration ≈ 4 days.
+![Monthly Seasonality](images/monthly_seasonality.png)
 
 ---
 
-### 8️⃣ Sales Distribution & Outlier Detection
-Histogram and boxplot to detect distribution skewness and outliers.
+### 6️⃣ Shipping Duration Distribution
+📌 Menganalisis efisiensi pengiriman (rata-rata ±4 hari).
+
+![Shipping Duration](images/shipping_duration.png)
+
+---
+
+### 7️⃣ Sales Distribution & Outlier Detection
+📌 Analisis distribusi dan deteksi outlier menggunakan boxplot.
+
+![Sales Boxplot](images/sales_boxplot.png)
 
 ---
 
